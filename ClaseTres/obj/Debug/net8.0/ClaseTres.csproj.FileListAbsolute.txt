@@ -1,0 +1,14 @@
+C:\Users\Alfred\source\repos\ClaseTres\ClaseTres\bin\Debug\net8.0\ClaseTres.exe
+C:\Users\Alfred\source\repos\ClaseTres\ClaseTres\bin\Debug\net8.0\ClaseTres.deps.json
+C:\Users\Alfred\source\repos\ClaseTres\ClaseTres\bin\Debug\net8.0\ClaseTres.runtimeconfig.json
+C:\Users\Alfred\source\repos\ClaseTres\ClaseTres\bin\Debug\net8.0\ClaseTres.dll
+C:\Users\Alfred\source\repos\ClaseTres\ClaseTres\bin\Debug\net8.0\ClaseTres.pdb
+C:\Users\Alfred\source\repos\ClaseTres\ClaseTres\obj\Debug\net8.0\ClaseTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred\source\repos\ClaseTres\ClaseTres\obj\Debug\net8.0\ClaseTres.AssemblyInfoInputs.cache
+C:\Users\Alfred\source\repos\ClaseTres\ClaseTres\obj\Debug\net8.0\ClaseTres.AssemblyInfo.cs
+C:\Users\Alfred\source\repos\ClaseTres\ClaseTres\obj\Debug\net8.0\ClaseTres.csproj.CoreCompileInputs.cache
+C:\Users\Alfred\source\repos\ClaseTres\ClaseTres\obj\Debug\net8.0\ClaseTres.dll
+C:\Users\Alfred\source\repos\ClaseTres\ClaseTres\obj\Debug\net8.0\refint\ClaseTres.dll
+C:\Users\Alfred\source\repos\ClaseTres\ClaseTres\obj\Debug\net8.0\ClaseTres.pdb
+C:\Users\Alfred\source\repos\ClaseTres\ClaseTres\obj\Debug\net8.0\ClaseTres.genruntimeconfig.cache
+C:\Users\Alfred\source\repos\ClaseTres\ClaseTres\obj\Debug\net8.0\ref\ClaseTres.dll
